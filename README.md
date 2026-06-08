@@ -13,3 +13,8 @@ O desenvolvimento deste Caderno Temático tem como metas principais:
 2. **Estudar Frameworks Práticos de Mitigação:** Analisar guias consolidados (como o *NIST AI Risk Management Framework*) para identificar boas práticas de auditoria de dados e engenharia ética.
 3. **Dominar a Engenharia de Prompts para Análise Técnica:** Desenvolver habilidades avançadas de formulação de prompts e *troubleshooting*, forçando a IA a extrair respostas com alto rigor factual e referenciado diretamente das fontes.
 4. **Consolidar um Guia de Consulta Rápida:** Criar um repositório centralizado de conhecimento (resumos, glossário e prompts reutilizáveis) que sirva de apoio para futuras tomadas de decisão arquiteturais e de compliance em projetos de software.
+
+### Fontes
+A Lei de IA da União Europeia (EU AI Act - Resumo Oficial):
+https://artificialintelligenceact.eu/wp-content/uploads/2024/11/Future-of-Life-InstituteAI-Act-overview-30-May-2024.pdf
+
