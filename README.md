@@ -1,3 +1,5 @@
+https://notebooklm.google.com/notebook/105e6498-d011-4f57-b17e-2d79384ac543
+
 ## 📋 Contexto e Objetivos
 
 ### Contexto
